@@ -31,29 +31,15 @@
 
 ---
 
-### GitHub Stats
-<!-- GitHub Stats Section -->
-<p align="left">
-  <!-- LEFT CARD -->
-  <a href="https://github.com/kaids77">
-    <img 
-      align="left" 
-      src="https://streak-stats.demolab.com?user=kaids77&theme=radical&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=50fa7b&background=11121a" 
-      alt="GitHub Streak" 
-      width="48%"
-    />
-  </a>
+### GitHub Contributions
 
-  <!-- RIGHT CARD -->
-  <a href="https://github.com/kaids77">
-    <img 
-      align="right" 
-      src="https://github-readme-stats.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&bg_color=11121a&title_color=ff79c6&icon_color=50fa7b&text_color=c9d1d9" 
-      alt="GitHub Stats"
-      width="48%"
-    />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaids77&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true)
+
+
+
+
 
 
 ---
