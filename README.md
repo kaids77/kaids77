@@ -33,7 +33,6 @@
 
 ### GitHub Stats
 <!-- GitHub Stats Section -->
-<!-- GitHub Stats Section -->
 <p align="left">
   <!-- LEFT CARD -->
   <a href="https://github.com/kaids77">
