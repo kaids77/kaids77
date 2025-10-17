@@ -30,12 +30,17 @@
 </div>
 
 ---
-
 ### GitHub Contributions
+<!-- GitHub Stats & Streak side-by-side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=kaids77&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaids77&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true)
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
 
 
