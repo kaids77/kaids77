@@ -42,9 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
-
-
-
-
-
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaids77/kaids77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaids77/kaids77/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaids77/kaids77/output/pacman-contribution-graph.svg">
+</picture>
