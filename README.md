@@ -1,7 +1,7 @@
-<h1 align="center">Salvete, I'm Charlie Casiano Mangyao</h1>
-<h3 align="center">A passionate homeless engineer</h3>
+<h1 align="left">Salvete, I'm Charlie Casiano Mangyao</h1>
+<h3 align="left">A passionate homeless engineer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaids77&label=Profile%20views&color=ff79c6&style=flat-square" alt="kaids77" />
 </p>
 
