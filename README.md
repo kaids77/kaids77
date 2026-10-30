@@ -1,4 +1,4 @@
-<h1 align="left">Salvete, I'm Charlie Casiano Mangyao</h1>
+<h1 align="left">Salvete, I'm Charlie Casiano Mangyao!</h1>
 <h3 align="left">A Passionate Software Engineer</h3>
 <p>Have interest in exploring DevOps and AI engineering</p>
 
@@ -129,13 +129,13 @@
 ### GitHub Contributions
 <!-- GitHub Stats & Streak side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats-rho-pied-65.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-rho-pied-65.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=kaids77&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-rho-pied-65.vercel.app/api/top-langs/?username=kaids77&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" height="150"/>
 </p>
 
 ---
