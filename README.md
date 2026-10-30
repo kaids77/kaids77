@@ -25,7 +25,7 @@
 ---
 
 <h3>About Me</h3>
-<p>Computer Science student architecting performant web platforms, cross-platform mobile apps, automated pipelines, and civic intelligence engines. Grounded in clean architecture, practical systems engineering, and open source collaboration</p>
+<p>Computer Science student architecting performant web platforms, cross-platform mobile apps, automated pipelines, and AI-integrated civic intelligence engines. Grounded in clean architecture, practical systems engineering, and open-source collaboration.</p>
 
 ---
 
@@ -129,7 +129,7 @@
 ### GitHub Contributions
 <!-- GitHub Stats & Streak side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-rho-pied-65.vercel.app/api?username=kaids77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=kaids77&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
