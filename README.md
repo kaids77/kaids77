@@ -30,6 +30,7 @@
 ---
 
 ### Languages
+<p>Core languages used for backend logic, frontend development, mobile apps, and scripting.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
@@ -46,6 +47,7 @@
 ---
 
 ### Frameworks, Platform & Libraries
+<p>Component-driven frontends and backends, native mobile apps, REST API frameworks, and build tooling.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -63,6 +65,7 @@
 ---
 
 ### Servers & Hosting
+<p>Cloud platforms, CI/CD pipelines, and web server environments for deployment.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
@@ -76,6 +79,7 @@
 ---
 
 ### DATABASES / ORM
+<p>Relational and NoSQL databases, ORMs, and data modeling tools.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -86,7 +90,8 @@
 
 ---
 
-### Others
+### Other
+<p>Version control, DevOps, design tools, networking, and hardware prototyping.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
